@@ -10,8 +10,9 @@
     {
       "name": "jadwal-salat",
       "title": "Jadwal Salat",
-      "description": "",
-      "mode": "no-view"
+      "subtitle": "Jadwal Salat Hari Ini",
+      "description": "Menampilkan Jadwal Salat Hari Ini",
+      "mode": "view"
     }
   ],
   "preferences": [
