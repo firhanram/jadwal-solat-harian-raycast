@@ -14,6 +14,24 @@
       "mode": "no-view"
     }
   ],
+  "preferences": [
+    {
+      "name": "latitude",
+      "title": "Latitude",
+      "description": "Your location latitude",
+      "placeholder": "e.g. -6.200000",
+      "type": "textfield",
+      "required": true
+    },
+    {
+      "name": "longitude",
+      "title": "Longitude",
+      "description": "Your location longitude",
+      "placeholder": "e.g. 106.816666",
+      "type": "textfield",
+      "required": true
+    }
+  ],
   "dependencies": {
     "@raycast/api": "^1.88.4",
     "@raycast/utils": "^1.17.0",
